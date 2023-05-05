@@ -24,5 +24,5 @@ You can also do it manually by editing the appmanifest for EACH game in `C:\Prog
 
 So the purpose of this script is to automatically (every 1h) check all the manifest files and change them if necessary.
 
-# 🆘 Wanna contribute?
+## 🆘 Wanna contribute?
 Feel free to [open a PR](https://github.com/xjeeh/disable-steam-autoupdate/pulls) and help improving it 🤗
