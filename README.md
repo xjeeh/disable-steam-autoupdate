@@ -3,6 +3,10 @@ A batch script wrapped in a Windows scheduled task to disable Steam autoupdate
 
 ## Instructions
 
+First things first, download these scripts (you can keep them wherever you want):
+
+[Download](https://github.com/xjeeh/disable-steam-autoupdate/archive/refs/heads/main.zip)
+
 ### Installing
 run `install.bat`
 
