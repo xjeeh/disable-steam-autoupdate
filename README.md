@@ -1,4 +1,6 @@
 # 🔒 disable-steam-autoupdate 🔒
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 A batch script wrapped in a Windows scheduled task to disable Steam autoupdate
 
 ## 🗈 Instructions
